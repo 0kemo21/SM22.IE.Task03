@@ -1,6 +1,7 @@
 # SM22.IE.Task03  
 ## Project title : Requirements to add coffee pouring function to the Humanoid robot
 
+![future-artificial-intelligence](https://user-images.githubusercontent.com/108364038/182312511-3329760c-73e9-4802-89ee-ede70b4016f7.png)
 
 ### F1. Robot and Artificial Intelligence path Requirements:
 
