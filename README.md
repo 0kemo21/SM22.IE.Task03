@@ -20,6 +20,9 @@ II. The camera can also be used to find out if the person wants to fill the cup 
  
  ### F3. Electrical power path requirements:
  
+ ![images](https://user-images.githubusercontent.com/108364038/182315548-fc6f7951-beb9-4f96-b93c-c22b0a3657b1.jpg)
+
+ 
  I.  Place an additional motor if necessary to perform the function of pouring coffee.
  
  II. Putting an electric heater under the coffee pot to heat the coffee.
