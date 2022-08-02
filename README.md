@@ -1,15 +1,18 @@
 # SM22.IE.Task03  
 ## Project title : Requirements to add coffee pouring function to the Humanoid robot
 
-![future-artificial-intelligence](https://user-images.githubusercontent.com/108364038/182312511-3329760c-73e9-4802-89ee-ede70b4016f7.png)
-
 ### F1. Robot and Artificial Intelligence path Requirements:
+
+![datacenter820-769x414](https://user-images.githubusercontent.com/108364038/182313503-80416d44-33c9-4d84-b116-81a9350cb28d.jpg)
 
 I. Putting a camera to read the position of the person in front of the robot, whether he wants to drink coffee or not.
 
 II. The camera can also be used to find out if the person wants to fill the cup again.
 
 ### F2. Internet of Things and Data Systems path Requirements:
+
+![future-artificial-intelligence](https://user-images.githubusercontent.com/108364038/182312511-3329760c-73e9-4802-89ee-ede70b4016f7.png)
+
 
  I. Programming the robot to receive voice commands through the mic. Such as recording "audio text" sentences,to enabling the robot to know the request of the person in front of it, whether he wants a cup of coffee for the first time, or wants to fill it again.
  
