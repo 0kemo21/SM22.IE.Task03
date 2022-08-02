@@ -39,6 +39,8 @@ II. The camera can also be used to find out if the person wants to fill the cup 
 
 ### F4. Mechanics path requirements:
 
+![download](https://user-images.githubusercontent.com/108364038/182316375-39321708-2151-4f81-a7d6-f3efbc3dcbd4.jpg)
+
 .Adding a "Gearbox" in the arm for increases the lift wight  power.
 
 #### --------------------------------------------------------------------------------------------------------
